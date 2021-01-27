@@ -1,0 +1,12 @@
+# npm packages
+/node_modules
+
+# Compiled
+/dist
+
+# IDE
+/.vscode
+/.idea
+
+# Coverage
+/coverage
